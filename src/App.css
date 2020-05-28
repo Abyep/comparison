@@ -1,0 +1,46 @@
+.homepage {
+  margin: 10%;
+  padding: 2%;
+}
+
+.comparetitle {
+  font-weight: 22px;
+  font-size: 2.2rem;
+}
+
+.imageSection {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  padding: 2%;
+}
+
+.price {
+  font-weight: lighter;
+  font-size: 18px;
+  text-decoration-line: line-through;
+}
+
+.discount {
+  font-size: 14px;
+  padding: 4%;
+  color: green;
+}
+
+.featureTitle {
+  background: #e5e5e5;
+  font-weight: 550;
+  font-size: 22px;
+  padding: 0.5%;
+}
+
+.featureValue {
+  width: 400px;
+  height: 30px;
+  padding: 0.5%;
+}
